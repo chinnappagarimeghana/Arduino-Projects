@@ -99,20 +99,6 @@ Arduino-Projects/
 └── README.md
 ```
 
----
-
-## 📸 Project Resources
-
-Each project directory contains:
-
-* Source Code
-* Circuit Connections
-* Project Documentation
-* Images
-* Demonstration Videos
-
----
-
 ## 📌 About
 
 These projects were developed to explore robotics, embedded systems, and wireless communication technologies through practical implementations. The repository serves as a showcase of my work in Arduino and ESP8266-based development.
